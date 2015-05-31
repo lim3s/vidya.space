@@ -1,0 +1,12 @@
+body {
+	background-color: #000000
+}
+
+iframe {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /*fuck off im gonna be lazy*/
+  margin-top: -157px;
+  margin-left: -280px;
+}
