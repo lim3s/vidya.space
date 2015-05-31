@@ -12,3 +12,4 @@ I will accept any pull requests that follow these rules:
 - No Adult content
 - No malicious code
 - No subdomain may exceed 10MB
+- All files on subdomain must be used in HTML, this isn't a file storage service
