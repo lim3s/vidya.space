@@ -11,3 +11,4 @@ I will accept any pull requests that follow these rules:
 - No copyrighted content
 - No Adult content
 - No malicious code
+- No subdomain may exceed 10MB
