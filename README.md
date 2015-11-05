@@ -9,7 +9,6 @@ Subdomains are represented by a directory. So memes.vidya.space would be stored 
 I will accept any pull requests that follow these rules:
 - Nothing illegal
 - No copyrighted content
-- No Adult content
 - No malicious code
 
 ## DNS Subdomains
