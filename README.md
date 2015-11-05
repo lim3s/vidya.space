@@ -11,8 +11,6 @@ I will accept any pull requests that follow these rules:
 - No copyrighted content
 - No Adult content
 - No malicious code
-- No subdomain may exceed 10MB
-- All files on subdomain must be used in HTML, this isn't a file storage service
 
 ## DNS Subdomains
 If you want to have the DNS point a subdomain to something else, create a README.md inside the subdomain containing details of your desired A or CNAME record. See /mc or /ts for an example
